@@ -28,6 +28,7 @@ out/
 # OS-specific files
 .DS_Store
 Thumbs.db
+*.pem
 
 # IDEs and editors
 .vscode/
